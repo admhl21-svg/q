@@ -1,0 +1,6 @@
+﻿C:\Users\media\Desktop\koxe\mirror\voltjo.com\1000_1102\index.html : 7 : <link rel="stylesheet" href="includes/style.css">
+C:\Users\media\Desktop\koxe\mirror\voltjo.com\1302-1350\index.html : 26 : <div id="brand"><img src="logo_volt.png"></img>VOLT</div>
+C:\Users\media\Desktop\koxe\mirror\voltjo.com\1352-1400\index.html : 23 : url('https://voltjo.com/1352-1400/background.jpg') center/cover no-repeat fixed;
+C:\Users\media\Desktop\koxe\mirror\voltjo.com\1352-1400\index.html : 258 : <img class="volt" src="volt.png" alt="VOLT">
+C:\Users\media\Desktop\koxe\mirror\voltjo.com\1352-1400\index.html : 295 : <script src="launch.js"></script>
+C:\Users\media\Desktop\koxe\mirror\voltjo.com\1352-1400\jb.html : 24 : url('background.jpg') center/cover no-repeat fixed;
